@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApplication", "ExternalApplication\ExternalApplication.csproj", "{76002EFC-7970-439C-B159-476D010E4E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleCreateUIApp", "ExampleCreateUIApp\ExampleCreateUIApp.csproj", "{E1A4FCED-7F24-4265-9185-AA8C99D7AB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76002EFC-7970-439C-B159-476D010E4E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76002EFC-7970-439C-B159-476D010E4E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76002EFC-7970-439C-B159-476D010E4E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76002EFC-7970-439C-B159-476D010E4E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A4FCED-7F24-4265-9185-AA8C99D7AB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A4FCED-7F24-4265-9185-AA8C99D7AB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A4FCED-7F24-4265-9185-AA8C99D7AB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A4FCED-7F24-4265-9185-AA8C99D7AB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D189FB9-6BED-4E3D-BDDA-725CFCE0E74A}
+	EndGlobalSection
+EndGlobal

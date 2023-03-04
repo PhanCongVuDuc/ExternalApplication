@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>External Application</Name>
+		<AddInId>E1C01AD2-E02F-4B92-A788-37603D9D86E8</AddInId>
+		<FullClassName>ExampleCreateUIApp.RoutingApp</FullClassName>
+		<Assembly>C:\Users\Admin\Desktop\workSpace\csharp\externalApplication\ExampleCreateUIApp\bin\Debug\ExampleCreateUIApp.dll</Assembly>
+		<VendorId>Sonny</VendorId>
+		<VendorDescription>Sonny</VendorDescription>
+	</AddIn>
+</RevitAddIns>
